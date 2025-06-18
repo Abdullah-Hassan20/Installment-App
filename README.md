@@ -42,6 +42,7 @@ A lightweight web-based Installment Management System built with **PHP** and **M
 3. **Run the app** in your browser:
 
 
+## ✍️ Author
 
 **Abdullah Hassan**  
 📧 abdullahrouf267@gmail.com  
